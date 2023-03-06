@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Encino", "..\Encino\Encino.vcxproj", "{24113A25-F56E-4821-B8C2-48C3C5B49C5C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Robles", "Robles.vcxproj", "{472C9869-CE46-4891-89B8-CD69C61AC82E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{472C9869-CE46-4891-89B8-CD69C61AC82E}.Debug|x64.ActiveCfg = Debug|x64
+		{472C9869-CE46-4891-89B8-CD69C61AC82E}.Debug|x64.Build.0 = Debug|x64
+		{472C9869-CE46-4891-89B8-CD69C61AC82E}.Release|x64.ActiveCfg = Release|x64
+		{472C9869-CE46-4891-89B8-CD69C61AC82E}.Release|x64.Build.0 = Release|x64
+		{24113A25-F56E-4821-B8C2-48C3C5B49C5C}.Debug|x64.ActiveCfg = Debug|x64
+		{24113A25-F56E-4821-B8C2-48C3C5B49C5C}.Debug|x64.Build.0 = Debug|x64
+		{24113A25-F56E-4821-B8C2-48C3C5B49C5C}.Release|x64.ActiveCfg = Release|x64
+		{24113A25-F56E-4821-B8C2-48C3C5B49C5C}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E5A2928-5FB3-45C8-A578-F9C18694FC5F}
+	EndGlobalSection
+EndGlobal
