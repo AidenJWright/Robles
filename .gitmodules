@@ -1,0 +1,3 @@
+[submodule "Robles/vendor/spdlog"]
+	path = Robles/vendor/spdlog
+	url = https://github.com/gabime/spdlog.git
